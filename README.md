@@ -1,9 +1,6 @@
 # student-engagement-analysis-dashboard
 Power BI dashboard analysing student engagement and retention trends.
 
-# student-engagement-analysis-dashboard
-Power BI dashboard analysing student engagement and retention trends.
-
 ## 📊 Project Overview
 
 This project presents a comprehensive analysis of student engagement patterns in an EdTech platform using Power BI. The dashboard visualizes key metrics including user distribution, retention rates, satisfaction scores, and churn patterns across different subscription tiers (Free, Basic, Premium) from 2021-2024.
