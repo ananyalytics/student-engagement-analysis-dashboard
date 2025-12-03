@@ -25,15 +25,10 @@ This project presents a comprehensive analysis of student engagement patterns in
 student-engagement-analysis-dashboard/
 │
 ├── data/                    # Dataset files
-│   └── edtech_engagement_data.csv
+│   └── Organized Data.xlsx
+│   └── Raw Data.csv
 │
-├── images/                  # Dashboard screenshots
-│   └── dashboard_screenshot.png
-│
-├── report/                  # Power BI report file
-│   └── student_engagement_analysis.pbix
-│
-└── README.md               # Project documentation
+
 ```
 
 ## 🛠️ Tools & Technologies
