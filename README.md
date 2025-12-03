@@ -1,11 +1,11 @@
 # student-engagement-analysis-dashboard
 Power BI dashboard analysing student engagement and retention trends.
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents a comprehensive analysis of student engagement patterns in an EdTech platform using Power BI. The dashboard visualizes key metrics including user distribution, retention rates, satisfaction scores, and churn patterns across different subscription tiers (Free, Basic, Premium) from 2021-2024.
 
-## 🎯 Key Insights
+## Key Insights
 
 - **Average Time Spent**: 40.80 hours per student
 - **Satisfaction Score**: 6.67/10 average across all users
@@ -44,13 +44,13 @@ student-engagement-analysis-dashboard/
 
 ```
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop**: Dashboard creation and data visualization
 - **DAX**: Calculated measures and metrics
 - **Power Query**: Data transformation and cleaning
 
-## 📈 Dashboard Components
+## Dashboard Components
 
 1. **Sub Type Distribution**: Donut chart showing user distribution across Free, Basic, and Premium tiers
 2. **Retention Days by Sub Type**: Bar chart comparing retention rates across subscription types
@@ -58,7 +58,7 @@ student-engagement-analysis-dashboard/
 4. **Satisfaction Score by Sub Type**: Comparative analysis of satisfaction across tiers
 5. **Satisfaction vs Time Spent**: Scatter plot revealing correlation patterns between engagement and satisfaction
 
-## 🔍 Key Findings
+## Key Findings
 
 **The Satisfaction Paradox**: Free users demonstrate higher satisfaction scores compared to paid tiers, suggesting potential areas for improvement in Premium offerings.
 
@@ -66,7 +66,7 @@ student-engagement-analysis-dashboard/
 
 **Engagement Patterns**: A weak positive correlation exists between time spent and satisfaction, with most users clustering in the 20-60 hour range with 7-9 satisfaction scores.
 
-## 📊 Data Source
+## Data Source
 
 Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/edtech-engagement-data) from Kaggle
 
@@ -77,7 +77,7 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 - Retention metrics
 - Churn indicators
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository:
    ```bash
@@ -90,7 +90,7 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 
 4. Review the dataset in the `data/` folder for deeper analysis
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - [ ] Add time-series analysis to track engagement trends over months/quarters
 - [ ] Implement predictive churn modeling using machine learning
@@ -98,21 +98,21 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 - [ ] Add course/content-level engagement metrics
 - [ ] Develop drill-through pages for detailed user profiles
 
-## 📝 Insights & Recommendations
+## Insights & Recommendations
 
 1. **Investigate Premium User Experience**: The lower satisfaction among Premium users warrants a detailed review of features and value delivery
 2. **Leverage Free-to-Paid Conversion**: Understand what drives high satisfaction in free tier to improve conversion strategies
 3. **Optimize Basic Tier**: Strong retention suggests this tier has found product-market fit
 4. **Address Churn**: With 34.6% churn, implement retention strategies and exit surveys
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out for collaboration or questions:
 - LinkedIn: [www.linkedin.com/in/ananyalytics07]
 - Email: ananyalytics@gmail.com
 - Portfolio: [github.com/ananyalytics]
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
