@@ -28,6 +28,19 @@ student-engagement-analysis-dashboard/
 │   └── Organized Data.xlsx
 │   └── Raw Data.csv
 │
+├── images/                  # Dashboard and insight screenshots
+│   └── dashboard.png
+│   └── evd.png
+│   └── insight 1.png
+│   └── insight 2.png
+│   └── insight 3.png
+│   └── insight 4.png
+│   └── insight 5.png
+│
+├── report/                  # Power BI report file
+│   └── Engagement Satisfaction Dashboard.pbix
+│
+└── README.md                # Project documentation
 
 ```
 
