@@ -44,11 +44,10 @@ student-engagement-analysis-dashboard/
 
 ```
 
-## Tools & Technologies
+## Tools Used
 
 - **Power BI Desktop**: Dashboard creation and data visualization
-- **DAX**: Calculated measures and metrics
-- **Power Query**: Data transformation and cleaning
+- **Microsoft Excel**: Data cleaning and analysis
 
 ## Dashboard Components
 
@@ -81,7 +80,7 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-engagement-analysis-dashboard.git
+   git clone https://github.com/ananyalytics/student-engagement-analysis-dashboard.git
    ```
 
 2. Open the `.pbix` file in the `report/` folder using Power BI Desktop
@@ -89,14 +88,6 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 3. Explore the interactive dashboard and filter by different metrics
 
 4. Review the dataset in the `data/` folder for deeper analysis
-
-## Future Enhancements
-
-- [ ] Add time-series analysis to track engagement trends over months/quarters
-- [ ] Implement predictive churn modeling using machine learning
-- [ ] Create demographic segmentation analysis
-- [ ] Add course/content-level engagement metrics
-- [ ] Develop drill-through pages for detailed user profiles
 
 ## Insights & Recommendations
 
