@@ -101,7 +101,7 @@ Dataset: [EdTech Engagement Data](https://www.kaggle.com/datasets/maggieakarn/ed
 Feel free to reach out for collaboration or questions:
 - LinkedIn: [www.linkedin.com/in/ananyalytics07]
 - Email: ananyalytics@gmail.com
-- Portfolio: [github.com/ananyalytics]
+- Portfolio: [www.github.com/ananyalytics]
 
 ## License
 
